@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 three one
+=======
+<<<<<<< HEAD
+4 one
+=======
+three one
+>>>>>>> development
+>>>>>>> staging
