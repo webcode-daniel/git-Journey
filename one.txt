@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 three one
 =======
 <<<<<<< HEAD
@@ -7,3 +8,7 @@ three one
 three one
 >>>>>>> development
 >>>>>>> staging
+=======
+one
+two pops
+>>>>>>> refs/remotes/origin/main
